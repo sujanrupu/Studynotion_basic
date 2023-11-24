@@ -1,0 +1,125 @@
+.welcome2{
+    margin-top: -35px;
+}
+.welcome{
+    margin-top: 44px;
+}
+.leftPart1{
+    margin-left: -20px;
+    margin-top: -40px;
+}
+.rightPart1{
+    margin-top: -40px;
+}
+
+.login3  {
+    position: absolute;
+    margin-left: -200px;
+    width: 12vh;
+    height: 3vmax;
+    margin-top: -20px;
+    background-color: #2b3341;
+    color: #F1F2FF;
+    border: none;
+    border: 1px solid white;
+    border-radius: 10px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.frame1{
+    height: 400px;
+    margin-left: 170px;
+    margin-top: 100px;
+}
+.login11{
+    position: absolute;
+    height: 400px;
+    margin-top: 80px;
+    margin-left: -460px;
+}
+
+.right1{
+    rotate: 90deg;
+    margin-top: -50px;
+    margin-left: 20px;
+}
+
+.pass{
+    display: flex;
+    margin-left: 200px;
+    margin-top: -12px;
+}
+
+
+#passfield1, #passfield2{
+    width: 170px;
+    height: 35px;
+    border-radius: 10px;
+    padding-left: 20px;
+    background-color: #161D29;
+    color: #F1F2FF;
+}
+.form_pass2{
+    margin-left: 30px;
+}
+
+#emailfield1 {
+    width: 400px;
+    height: 35px;
+    border-radius: 10px;
+    padding-left: 20px;
+    background-color: #161D29;
+    color: #F1F2FF;
+}
+
+.signGoogle1{
+    position: absolute;
+    color: white;
+    border: 1px solid #F1F2FF;
+    background-color: #2b3341;
+    display: flex;
+    margin-top: -62px;
+    height: 40px;
+    width: 425px;
+    margin-left: 200px;
+    border-radius: 10px;
+    font-weight: 500;
+    font-size: medium;
+    border: none;
+    cursor: pointer;
+    padding-top: 10px;
+    border: 1px solid white;
+    padding-left: 20px;
+}
+.or1{
+    display: flex;
+    margin-left: 20px;
+    margin-top: -6px;
+}
+.signin_form2{
+    margin-top: 15px;
+    height: 40px;
+    width: 425px;
+    margin-left: 200px;
+    background-color: yellow;
+    border-radius: 10px;
+    color: black;
+    font-weight: bolder;
+    font-size: large;
+    border: none;
+    cursor: pointer;
+}
+
+.desc2{
+    color: white;
+    margin-left: 200px;
+    margin-top: -20px;
+    font-size: large;
+    font-weight: 400;
+}
+
+.form_email1{
+    margin-left: 200px;
+    margin-top: 10px;
+}

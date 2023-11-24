@@ -1,0 +1,80 @@
+html{
+  background-color: #111221;
+}
+.nav {
+  color: white;
+  width: 90vh;
+}
+
+li {
+  display: inline;
+}
+
+img {
+  margin-left: 140px;
+  margin-top: 5px;
+  height: 30px;
+  cursor: pointer;
+}
+
+.home {
+  position: absolute;
+  margin-left: 200px;
+  margin-top: 5px;
+  font-weight: 500;
+  font-size: large;
+  cursor: pointer;
+}
+
+.about {
+  position: absolute;
+  margin-left: 310px;
+  margin-top: 5px;
+  font-weight: 500;
+  font-size: large;
+  cursor: pointer;
+}
+
+.contact {
+  position: absolute;
+  margin-left: 420px;
+  margin-top: 5px;
+  font-weight: 500;
+  font-size: large;
+  cursor: pointer;
+}
+
+.home1, .contact1, .about1{
+  color: white;
+  text-decoration: none;
+}
+
+.login1{
+  position: absolute;
+  margin-left: 1080px;
+  width: 12vh;
+  height: 3vmax;
+  margin-top: -76px;
+  background-color: #2b3341;
+  color: #F1F2FF;
+  border: none;
+  border: 1px solid white;
+  border-radius: 10px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.signup1{
+  position: absolute;
+  margin-left: 750px;
+  width: 12vh;
+  height: 3vmax;
+  margin-top: 2px;
+  background-color: #2b3341;
+  color: #F1F2FF;
+  border: none;
+  border: 1px solid white;
+  border-radius: 10px;
+  font-weight: 700;
+  cursor: pointer;
+}

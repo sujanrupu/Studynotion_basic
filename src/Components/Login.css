@@ -1,0 +1,167 @@
+.welcome{
+    color: white;
+    margin-left: 200px;
+    margin-top: 50px;
+    font-size: xx-large;
+    font-weight: bold;
+}
+.desc1{
+    color: white;
+    margin-left: 200px;
+    margin-top: 20px;
+    font-size: large;
+    font-weight: 400;
+}
+.special{
+    margin-top: 2px;
+    color: rgb(72, 162, 192);
+    font-weight: 600;
+    font-size: large;
+    font-style: italic;
+}
+
+.form_email, .form_pass{
+    margin-left: 200px;
+}
+
+#emailfield, #passfield{
+    width: 350px;
+    height: 35px;
+    border-radius: 10px;
+    padding-left: 20px;
+    background-color: #161D29;
+    color: #F1F2FF;
+}
+
+.email_heads, .pass_heads{
+    margin-bottom: -10px;
+    font-weight: 400;
+    font-size: large;
+    color: white;
+}
+
+.pass_heads{
+    margin-top: 20px;
+}
+
+.forget{
+    color: rgb(72, 162, 192);
+    margin-top: 1px;
+    font-size: smaller;
+    margin-left: 270px;
+    cursor: pointer;
+}
+
+.imp{
+    color: red;
+    height: 1px;
+}
+
+.signin_form{
+    margin-top: 20px;
+    height: 40px;
+    width: 380px;
+    margin-left: 200px;
+    background-color: yellow;
+    border-radius: 10px;
+    color: black;
+    font-weight: bolder;
+    font-size: large;
+    border: none;
+    cursor: pointer;
+}
+
+.signin_form1{
+    text-decoration: none;
+    color: black;
+}
+
+.or{
+    display: flex;
+}
+.left{
+    height: 150px;
+    rotate: 90deg;
+    margin-top: -50px;
+    margin-left: 290px;
+}
+.text{
+    position: absolute;
+    color: white;
+    margin-left: 380px;
+    margin-top: 15px;
+}
+.right{
+    height: 150px;
+    rotate: 90deg;
+    margin-top: -50px;
+    margin-left: 110px;
+}
+.signGoogle{
+    position: absolute;
+    color: white;
+    border: 1px solid #F1F2FF;
+    background-color: #2b3341;
+    display: flex;
+    margin-top: -55px;
+    height: 40px;
+    width: 380px;
+    margin-left: 200px;
+    border-radius: 10px;
+    font-weight: 500;
+    font-size: medium;
+    border: none;
+    cursor: pointer;
+    padding-top: 10px;
+    border: 1px solid white;
+}
+.glogo{
+    height: 20px;
+    margin-top: -1px;
+    margin-left: 100px;
+    margin-right: 10px;
+}
+
+.total{
+    display: flex;
+}
+.frame{
+    height: 400px;
+    margin-left: 240px;
+    margin-top: 100px;
+}
+.login{
+    position: absolute;
+    height: 400px;
+    margin-top: 80px;
+    margin-left: -460px;
+}
+.toast-message{
+    position: relative;
+    padding-top: 100px;
+    width: 11vmax;
+    margin-left: 65px;
+    margin-top: -10px;
+}
+
+.signup3{
+    position: absolute;
+    margin-left: -200px;
+    width: 12vh;
+    height: 3vmax;
+    margin-top: -20px;
+    background-color: #2b3341;
+    color: #F1F2FF;
+    border: none;
+    border: 1px solid white;
+    border-radius: 10px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.leftPart{
+    margin-top: -30px;
+}
+.rightPart{
+    margin-top: -30px;
+}

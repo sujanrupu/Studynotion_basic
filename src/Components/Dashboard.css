@@ -1,0 +1,45 @@
+.dash_desc {
+    margin-top: 250px;
+    color: white;
+    margin-left: 500px;
+    font-size: xx-large;
+    font-weight: 700;
+}
+
+.signout  {
+    position: absolute;
+    margin-left: 960px;
+    width: 12vh;
+    height: 3vmax;
+    margin-top: -330px;
+    background-color: #2b3341;
+    color: #F1F2FF;
+    border: none;
+    border: 1px solid white;
+    border-radius: 10px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.dashboard{
+    position: absolute;
+    margin-left: 1090px;
+    width: 12vh;
+    height: 3vmax;
+    margin-top: -330px;
+    background-color: #2b3341;
+    color: #F1F2FF;
+    border: none;
+    border: 1px solid white;
+    border-radius: 10px;
+    font-weight: 700;
+    cursor: pointer;
+  } 
+
+  .toast-message{
+    position: relative;
+    padding-top: 100px;
+    width: 12vmax;
+    margin-left: 65px;
+    margin-top: -10px;
+}
